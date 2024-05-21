@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">Nice to meet you :) I'm at the start of my data science journey 🙃🚀</h3>
 
-- 🌱 I’m currently learning **Python, MLOps,**
+- 🔭 I’m currently working on [How are you doing? :)](https://github.com/dola0604/HAYD-1621)
+
+- 🌱 I’m currently learning **Python, MLOps, Tensorflow**
+
+- 💬 Ask me about **Sports data, visualisations and last recently CNN's 😬**
 
 - 📫 How to reach me **dolambert0604@gmail.com**
 
